@@ -1,0 +1,42 @@
+{
+  "slug": "queimadiaria-demo",
+  "displayName": "Queima Diária | Demo Dengage",
+  "sourceUrl": "https://www.queimadiaria.com/",
+  "createdAt": "2026-08-04",
+  "expiresAt": "2026-11-02",
+  "theme": {
+    "primary": "#ff4f00",
+    "onPrimary": "#ffffff",
+    "accent": "#ff6a13",
+    "ink": "#171717",
+    "muted": "#686868",
+    "surface": "#ffffff",
+    "page": "#f5f5f5",
+    "line": "#e5e5e5",
+    "radius": "16px",
+    "displayFont": "Montserrat",
+    "bodyFont": "Montserrat"
+  },
+  "locale": {
+    "language": "pt-BR",
+    "currency": "BRL",
+    "currencySymbol": "R$",
+    "numberLocale": "pt-BR"
+  },
+  "dengage": {
+    "accountId": "28",
+    "appGuid": "99d9b8fb-0c62-5a85-3e43-2402554d93a5",
+    "scenarioPrefix": "dengage_demo_"
+  },
+  "categories": [
+    "Fortalecimento",
+    "Emagrecimento",
+    "Cardio",
+    "Alta intensidade",
+    "Dança",
+    "Bem-estar",
+    "Mobilidade",
+    "Pós-parto",
+    "Condicionamento"
+  ]
+}
